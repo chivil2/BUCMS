@@ -1,0 +1,53 @@
+[2025-05-10 00:47:18] User -1: Admin account created
+[2025-05-10 00:47:18] User -1: System started
+[2025-05-10 10:55:14] User -1: Failed login attempt
+[2025-05-10 10:55:38] User -1: New user registered: kim
+[2025-05-10 10:55:53] User 2: Logged in as kim (student)
+[2025-05-10 12:19:47] User -1: System started
+[2025-05-10 12:22:36] User -1: System started
+[2025-05-10 12:27:26] User -1: System started
+[2025-05-10 12:29:43] User -1: System started
+[2025-05-10 12:32:17] User -1: System started
+[2025-05-10 16:37:30] User -1: System started
+[2025-05-11 00:13:06] Default rooms created
+[2025-05-11 00:13:06] System started
+[2025-05-11 00:18:47] Default rooms created
+[2025-05-11 00:18:47] System started
+[2025-05-11 00:20:22] Default rooms created
+[2025-05-11 00:20:22] System started
+[2025-05-11 00:25:38] Default rooms created
+[2025-05-11 00:25:38] System started
+[2025-05-11 00:33:48] Default rooms created
+[2025-05-11 00:33:48] System started
+[2025-05-11 00:36:39] Default rooms created
+[2025-05-11 00:36:39] System started
+[2025-05-11 00:37:42] New user registered: wenard
+[2025-05-11 00:37:52] Logged in as wenard (student)
+[2025-05-11 00:39:18] Booked room 1 on 11-05-2025 from 09:30 to 10:30 for: math
+[2025-05-11 00:39:27] Logged out
+[2025-05-11 00:39:35] Failed login attempt
+[2025-05-11 00:40:12] New user registered: exit
+[2025-05-11 00:41:12] Logged in as admin (admin)
+[2025-05-11 10:13:36] Default rooms created
+[2025-05-11 10:13:36] System started
+[2025-05-11 10:15:34] New user registered: user1
+[2025-05-11 10:16:16] Logged in as user1 (student)
+[2025-05-11 10:16:21] Logged out
+[2025-05-11 10:16:29] Logged in as user1 (student)
+[2025-05-11 10:16:34] Logged out
+[2025-05-11 10:16:46] Logged in as user1 (student)
+[2025-05-11 10:17:35] Logged out
+[2025-05-11 10:18:21] Logged in as admin (admin)
+[2025-05-11 10:18:39] Logged out
+[2025-05-11 10:41:46] Logged in as user1 (student)
+[2025-05-11 10:47:34] Reported lost item: cellphone
+[2025-05-11 10:53:13] Reported lost item: AquaFlask
+[2025-05-11 11:12:33] Default rooms created
+[2025-05-11 11:12:33] System started
+[2025-05-11 11:12:46] Failed login attempt
+[2025-05-11 11:12:56] Logged in as user1 (student)
+[2025-05-11 11:14:22] Booked room 1 on 12-05-2025 from 09:30 to 10:30 for: DSD
+[2025-05-11 11:17:03] Logged out
+[2025-05-11 11:17:18] Logged in as admin (admin)
+[2025-05-11 11:30:58] Logged out
+[2025-05-11 11:31:10] Logged in as user1 (student)

@@ -1,0 +1,5 @@
+1 admin admin123 admin
+2 kim 123456789 student
+3 wenard 1234567 student
+4 exit 1234 student
+5 user1 userfirst student
